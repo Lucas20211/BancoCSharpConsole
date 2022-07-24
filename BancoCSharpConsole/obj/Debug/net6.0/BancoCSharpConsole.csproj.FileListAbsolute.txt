@@ -1,0 +1,15 @@
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/bin/Debug/net6.0/BancoCSharpConsole
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/bin/Debug/net6.0/BancoCSharpConsole.deps.json
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/bin/Debug/net6.0/BancoCSharpConsole.runtimeconfig.json
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/bin/Debug/net6.0/BancoCSharpConsole.dll
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/bin/Debug/net6.0/ref/BancoCSharpConsole.dll
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/bin/Debug/net6.0/BancoCSharpConsole.pdb
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/obj/Debug/net6.0/BancoCSharpConsole.csproj.AssemblyReference.cache
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/obj/Debug/net6.0/BancoCSharpConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/obj/Debug/net6.0/BancoCSharpConsole.AssemblyInfoInputs.cache
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/obj/Debug/net6.0/BancoCSharpConsole.AssemblyInfo.cs
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/obj/Debug/net6.0/BancoCSharpConsole.csproj.CoreCompileInputs.cache
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/obj/Debug/net6.0/BancoCSharpConsole.dll
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/obj/Debug/net6.0/ref/BancoCSharpConsole.dll
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/obj/Debug/net6.0/BancoCSharpConsole.pdb
+/home/lucas36/Documentos/GitRepository/Projeto-BancoCSharp/BancoCSharpConsole/obj/Debug/net6.0/BancoCSharpConsole.genruntimeconfig.cache
